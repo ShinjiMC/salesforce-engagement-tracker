@@ -44,8 +44,10 @@ By Braulio Maldonado Casilla
 
 **Full Video Walk-through:**
 
-[![Project Demo Video](.docs/miniatura.png)](.docs/video.mp4)
-
+<video controls width="100%" poster=".docs/miniatura.png">
+  <source src=".docs/video.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 ---
 
 - **1. Engagement record page + your LWC**
